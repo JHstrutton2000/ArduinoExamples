@@ -1,0 +1,6 @@
+MOSI, MISO and SCK are the same pins as
+digital pin 11, 12 and 13,
+
+9: Heartbeat   - shows the programmer is running
+8: Error       - Lights up if something goes wrong (use red if that makes sense)
+7: Programming - In communication with the slave
